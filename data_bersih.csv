@@ -1,0 +1,438 @@
+Place_Name,Category,City,Rating,Time_Minutes,Price
+Monumen Nasional,Budaya,Jakarta,4.6,15.0,20000
+Kota Tua,Budaya,Jakarta,4.6,90.0,0
+Dunia Fantasi,Taman Hiburan,Jakarta,4.6,360.0,270000
+Taman Mini Indonesia Indah (TMII),Taman Hiburan,Jakarta,4.5,60.0,10000
+Atlantis Water Adventure,Taman Hiburan,Jakarta,4.5,60.0,94000
+Taman Impian Jaya Ancol,Taman Hiburan,Jakarta,4.5,10.0,25000
+Kebun Binatang Ragunan,Cagar Alam,Jakarta,4.5,60.0,4000
+Ocean Ecopark,Taman Hiburan,Jakarta,4.0,60.0,180000
+Pelabuhan Marina,Bahari,Jakarta,4.4,60.0,175000
+Pulau Tidung,Bahari,Jakarta,4.5,60.0,150000
+Pulau Bidadari,Bahari,Jakarta,4.6,60.0,5000
+Pulau Pari,Bahari,Jakarta,4.0,60.0,150000
+Pulau Pramuka,Bahari,Jakarta,4.2,60.0,5000
+Pulau Pelangi,Bahari,Jakarta,4.8,60.0,900000
+Pasar Seni,Pusat Perbelanjaan,Jakarta,4.4,90.0,0
+Jembatan Kota Intan,Budaya,Jakarta,4.3,60.0,0
+Museum Fatahillah,Budaya,Jakarta,4.4,60.0,5000
+Museum Bank Indonesia,Budaya,Jakarta,4.7,60.0,2000
+Kidzania,Taman Hiburan,Jakarta,4.6,300.0,185000
+Museum Taman Prasasti,Budaya,Jakarta,4.5,90.0,2000
+Museum Wayang,Budaya,Jakarta,4.5,150.0,5000
+Masjid Istiqlal,Tempat Ibadah,Jakarta,4.7,60.0,0
+Gereja Katedral,Tempat Ibadah,Jakarta,4.8,60.0,0
+Museum Nasional,Budaya,Jakarta,4.6,60.0,5000
+Pasar Tanah Abang,Pusat Perbelanjaan,Jakarta,4.0,45.0,0
+Pecinan Glodok,Pusat Perbelanjaan,Jakarta,4.3,20.0,0
+Sea World,Taman Hiburan,Jakarta,4.5,180.0,115000
+Wisata Agro Edukatif Istana Susu Cibugary,Taman Hiburan,Jakarta,4.5,60.0,35000
+Wisata Kuliner Pecenongan,Pusat Perbelanjaan,Jakarta,5.0,60.0,0
+Taman Menteng,Taman Hiburan,Jakarta,4.5,60.0,0
+Wisata Alam Mangrove Angke,Cagar Alam,Jakarta,4.3,60.0,25000
+Setu Babakan,Budaya,Jakarta,4.4,60.0,0
+Taman Suropati,Taman Hiburan,Jakarta,4.6,60.0,0
+Pasar Taman Puring,Pusat Perbelanjaan,Jakarta,4.4,60.0,0
+Grand Indonesia Mall,Pusat Perbelanjaan,Jakarta,4.7,120.0,0
+Skyrink - Mall Taman Anggrek,Taman Hiburan,Jakarta,4.5,180.0,110000
+Bumi Perkemahan Cibubur,Taman Hiburan,Jakarta,4.5,60.0,10000
+Istana Negara Republik Indonesia,Budaya,Jakarta,4.6,60.0,0
+Museum Macan (Modern and Contemporary Art in Nusantara),Budaya,Jakarta,4.5,120.0,100000
+Galeri Nasional Indonesia,Budaya,Jakarta,4.6,60.0,0
+Museum Bahari Jakarta,Budaya,Jakarta,4.4,120.0,2000
+Museum Seni Rupa dan Kramik,Budaya,Jakarta,4.4,60.0,5000
+The Escape Hunt,Taman Hiburan,Jakarta,4.4,120.0,70000
+Monumen Selamat Datang,Budaya,Jakarta,4.7,15.0,0
+Jakarta Aquarium dan Safari,Taman Hiburan,Jakarta,4.6,60.0,185000
+Pulau Semak Daun,Bahari,Jakarta,4.0,60.0,40000
+Taman Situ Lembang,Taman Hiburan,Jakarta,4.5,60.0,0
+Taman Ismail Marzuki,Budaya,Jakarta,4.6,60.0,5000
+Galeri Indonesia Kaya,Budaya,Jakarta,4.8,90.0,0
+Museum Joang 45,Budaya,Jakarta,4.0,60.0,2000
+Jakarta Planetarium,Taman Hiburan,Jakarta,4.1,120.0,12000
+Kampung Cina,Budaya,Jakarta,4.5,60.0,15000
+Rumah Sipitung,Budaya,Jakarta,4.5,90.0,5000
+Taman Agrowisata Cilangkap,Taman Hiburan,Jakarta,4.2,60.0,0
+Klenteng Jin De Yuan,Tempat Ibadah,Jakarta,4.5,60.0,0
+Pantai Ancol,Bahari,Jakarta,4.4,60.0,25000
+Taman Lapangan Banteng,Taman Hiburan,Jakarta,4.7,60.0,0
+Taman Ayodya,Taman Hiburan,Jakarta,4.4,45.0,0
+Museum Sumpah Pemuda,Budaya,Jakarta,4.7,60.0,2000
+Museum Tekstil,Budaya,Jakarta,4.5,45.0,5000
+Tugu Proklamasi,Budaya,Jakarta,4.6,60.0,0
+Taman Legenda Keong Emas,Taman Hiburan,Jakarta,4.5,60.0,30000
+Museum Kebangkitan Nasional,Budaya,Jakarta,4.7,45.0,2000
+Museum Sasmita Loka Ahmad Yani,Budaya,Jakarta,4.7,45.0,2000
+Museum Basoeki Abdullah,Budaya,Jakarta,4.6,90.0,1000
+Museum Layang-layang,Budaya,Jakarta,4.5,90.0,10000
+Margasatwa Muara Angke,Cagar Alam,Jakarta,4.2,15.0,25000
+Pasar Petak Sembilan,Pusat Perbelanjaan,Jakarta,4.4,45.0,0
+Freedom Library,Budaya,Jakarta,5.0,60.0,0
+Perpustakaan Nasional,Budaya,Jakarta,4.7,240.0,0
+Cibubur Garden Diary (Cibugary),Cagar Alam,Jakarta,4.5,60.0,50000
+Waterboom PIK (Pantai Indah Kapuk),Taman Hiburan,Jakarta,4.4,60.0,300000
+Museum Perangko,Budaya,Jakarta,4.4,60.0,5000
+Museum Tengah Kebun,Budaya,Jakarta,4.6,120.0,0
+SnowBay Waterpark,Taman Hiburan,Jakarta,4.3,60.0,180000
+Taman Cattleya,Taman Hiburan,Jakarta,4.5,60.0,20000
+Taman Hutan Tebet,Taman Hiburan,Jakarta,4.4,60.0,0
+Hutan Kota Srengseng,Taman Hiburan,Jakarta,4.3,60.0,1000
+Taman Spathodea,Taman Hiburan,Jakarta,4.6,30.0,0
+Plaza Indonesia,Pusat Perbelanjaan,Jakarta,4.7,120.0,0
+Mall Thamrin City,Pusat Perbelanjaan,Jakarta,4.4,60.0,0
+Museum Satria Mandala,Budaya,Jakarta,4.5,150.0,5000
+Alive Museum Ancol,Taman Hiburan,Jakarta,4.3,60.0,200000
+Kawasan Kuliner BSM,Pusat Perbelanjaan,Jakarta,4.6,60.0,0
+Taman Pintar Yogyakarta,Taman Hiburan,Yogyakarta,4.5,120.0,6000
+Keraton Yogyakarta,Budaya,Yogyakarta,4.6,60.0,15000
+Sindu Kusuma Edupark (SKE),Taman Hiburan,Yogyakarta,4.2,120.0,20000
+Museum Benteng Vredeburg Yogyakarta,Budaya,Yogyakarta,4.6,120.0,3000
+De Mata Museum Jogja,Budaya,Yogyakarta,4.4,60.0,50000
+Kampung Wisata Taman Sari,Taman Hiburan,Yogyakarta,4.6,60.0,5000
+Situs Warungboto,Taman Hiburan,Yogyakarta,4.4,60.0,0
+Nol Kilometer Jl.Malioboro,Taman Hiburan,Yogyakarta,4.7,45.0,0
+Gembira Loka Zoo,Cagar Alam,Yogyakarta,4.5,60.0,60000
+Sumur Gumuling,Taman Hiburan,Yogyakarta,4.5,60.0,7000
+Desa Wisata Sungai Code Jogja Kota,Taman Hiburan,Yogyakarta,5.0,60.0,0
+Alun Alun Selatan Yogyakarta,Taman Hiburan,Yogyakarta,4.6,60.0,0
+Monumen Yogya Kembali,Budaya,Yogyakarta,4.5,30.0,15000
+Taman Pelangi Yogyakarta,Taman Hiburan,Yogyakarta,4.3,60.0,15000
+Kampung Wisata Kadipaten,Budaya,Yogyakarta,4.4,60.0,0
+Taman Budaya Yogyakarta,Budaya,Yogyakarta,4.5,210.0,0
+Kampung Wisata Sosro Menduran,Budaya,Yogyakarta,4.0,60.0,0
+Monumen Batik Yogyakarta,Budaya,Yogyakarta,4.5,15.0,40000
+Tugu Pal Putih Jogja,Taman Hiburan,Yogyakarta,4.7,15.0,0
+Tebing Breksi,Budaya,Yogyakarta,4.4,60.0,20000
+Candi Donotirto,Budaya,Yogyakarta,4.4,25.0,0
+Kawasan Malioboro,Taman Hiburan,Yogyakarta,4.8,60.0,0
+Bangsal Pagelaran,Budaya,Yogyakarta,4.6,60.0,5000
+Embung Tambakboyo,Taman Hiburan,Yogyakarta,4.4,60.0,0
+Hutan Pinus Pengger,Taman Hiburan,Yogyakarta,4.5,60.0,3000
+Monumen Serangan Umum 1 Maret,Taman Hiburan,Yogyakarta,4.6,60.0,3000
+Puncak Pinus Becici,Taman Hiburan,Yogyakarta,4.5,60.0,3000
+Bukit Bintang Yogyakarta,Taman Hiburan,Yogyakarta,4.5,90.0,25000
+Gedung Agung Yogyakarta,Budaya,Yogyakarta,4.6,60.0,0
+The Lost World Castle,Taman Hiburan,Yogyakarta,4.3,60.0,30000
+Monumen Sanapati,Budaya,Yogyakarta,4.3,60.0,15000
+Jurang Tembelan Kanigoro,Taman Hiburan,Yogyakarta,4.5,45.0,2500
+The World Landmarks - Merapi Park Yogyakarta,Taman Hiburan,Yogyakarta,4.2,90.0,22000
+Museum Sonobudoyo Unit I,Budaya,Yogyakarta,4.6,120.0,5000
+Lava Bantal,Budaya,Yogyakarta,4.4,30.0,5000
+Bukit Panguk Kediwung,Budaya,Yogyakarta,4.5,90.0,250000
+Candi Prambanan,Budaya,Yogyakarta,4.7,60.0,50000
+Watu Goyang,Budaya,Yogyakarta,4.4,45.0,2500
+Kampung Wisata Rejowinangun,Budaya,Yogyakarta,4.3,60.0,0
+Kauman Pakualaman Yogyakarta,Budaya,Yogyakarta,5.0,60.0,0
+Alun-alun Utara Keraton Yogyakarta,Budaya,Yogyakarta,4.6,60.0,0
+Pantai Goa Cemara,Bahari,Yogyakarta,4.3,60.0,4000
+Blue Lagoon Jogja,Taman Hiburan,Yogyakarta,4.3,60.0,10000
+Gumuk Pasir Parangkusumo,Taman Hiburan,Yogyakarta,4.5,90.0,0
+Bukit Lintang Sewu,Taman Hiburan,Yogyakarta,4.5,60.0,2000
+Studio Alam Gamplong,Taman Hiburan,Yogyakarta,4.4,120.0,10000
+Watu Lumbung,Cagar Alam,Yogyakarta,4.3,30.0,5000
+Air Terjun Kedung Pedut,Cagar Alam,Yogyakarta,4.5,60.0,20000
+Puncak Kebun Buah Mangunan,Taman Hiburan,Yogyakarta,4.6,90.0,5000
+Desa Wisata Gamplong,Taman Hiburan,Yogyakarta,4.4,60.0,10000
+Kawasan Wisata Sosrowijayan,Pusat Perbelanjaan,Yogyakarta,4.0,60.0,0
+Grojogan Watu Purbo Bangunrejo,Taman Hiburan,Yogyakarta,4.5,90.0,10000
+Wisata Alam Kalibiru,Cagar Alam,Yogyakarta,4.4,90.0,20000
+Jogja Exotarium,Taman Hiburan,Yogyakarta,4.4,120.0,20000
+Puncak Gunung Api Purba - Nglanggeran,Cagar Alam,Yogyakarta,4.7,60.0,10000
+Bendung Lepen,Taman Hiburan,Yogyakarta,4.6,60.0,0
+Bunker Kaliadem Merapi,Cagar Alam,Yogyakarta,4.5,45.0,3000
+Ledok Sambi,Cagar Alam,Yogyakarta,4.6,150.0,0
+Seribu Batu Songgo Langit,Cagar Alam,Yogyakarta,4.6,90.0,2000
+Goa Jomblang,Cagar Alam,Yogyakarta,4.6,60.0,500000
+Desa Wisata Rumah Domes/Teletubbies,Taman Hiburan,Yogyakarta,4.1,60.0,5000
+Bukit Wisata Pulepayung,Cagar Alam,Yogyakarta,4.5,60.0,10000
+Bentara Budaya Yogyakarta (BBY),Budaya,Yogyakarta,4.5,60.0,0
+Goa Rancang Kencono,Cagar Alam,Yogyakarta,4.3,30.0,5000
+Goa Cerme,Cagar Alam,Yogyakarta,4.4,90.0,3000
+Wisata Kraton Jogja,Budaya,Yogyakarta,4.7,60.0,7000
+Desa Wisata Kelor,Taman Hiburan,Yogyakarta,4.4,90.0,0
+Pantai Patihan,Bahari,Yogyakarta,4.1,45.0,5000
+Pantai Kukup,Bahari,Yogyakarta,4.0,60.0,10000
+Pantai Ngrawe (Mesra),Bahari,Yogyakarta,4.5,60.0,10000
+Pantai Ngobaran,Bahari,Yogyakarta,4.6,60.0,5000
+Pantai Pulang Sawal,Bahari,Yogyakarta,4.5,60.0,10000
+Pantai Baron,Bahari,Yogyakarta,4.4,60.0,10000
+Pantai Pok Tunggal,Bahari,Yogyakarta,4.5,60.0,10000
+Hutan Pinus Asri,Cagar Alam,Yogyakarta,4.5,60.0,2500
+Pasar Kebon Empring Bintaran,Pusat Perbelanjaan,Yogyakarta,4.4,60.0,0
+"Bukit Paralayang, Watugupit",Cagar Alam,Yogyakarta,4.7,90.0,5000
+Kampung Wisata Dipowinatan,Budaya,Yogyakarta,4.5,60.0,220000
+Watu Mabur Mangunan,Cagar Alam,Yogyakarta,4.5,60.0,2500
+Pintoe Langit Dahromo,Cagar Alam,Yogyakarta,4.4,60.0,2500
+Green Village Gedangsari,Taman Hiburan,Yogyakarta,4.2,60.0,2000
+Kebun Teh Nglinggo,Cagar Alam,Yogyakarta,4.5,60.0,6000
+Geoforest Watu Payung Turunan,Cagar Alam,Yogyakarta,4.5,60.0,0
+Pantai Timang,Bahari,Yogyakarta,4.7,90.0,10000
+Puncak Segoro,Cagar Alam,Yogyakarta,4.2,90.0,5000
+Candi Borobudur,Budaya,Yogyakarta,4.7,120.0,50000
+Candi Ijo,Budaya,Yogyakarta,4.6,60.0,5000
+Pantai Indrayanti,Bahari,Yogyakarta,4.5,60.0,10000
+Pantai Nglambor,Bahari,Yogyakarta,4.4,60.0,10000
+Pasar Beringharjo,Pusat Perbelanjaan,Yogyakarta,4.5,60.0,0
+Museum Ullen Sentalu,Budaya,Yogyakarta,4.7,120.0,100000
+Museum Gunung Merapi,Budaya,Yogyakarta,4.4,60.0,10000
+Pantai Parangtritis,Bahari,Yogyakarta,4.5,60.0,10000
+Goa Pindul,Cagar Alam,Yogyakarta,4.5,60.0,40000
+Candi Ratu Boko,Budaya,Yogyakarta,4.6,90.0,75000
+Pantai Depok Jogja,Bahari,Yogyakarta,4.3,60.0,10000
+Pantai Sundak,Bahari,Yogyakarta,4.5,60.0,5000
+Hutan Mangrove Kulon Progo,Bahari,Yogyakarta,4.1,120.0,5000
+Jogja Bay Pirates Adventure Waterpark,Taman Hiburan,Yogyakarta,4.4,60.0,150000
+Pantai Sepanjang,Bahari,Yogyakarta,4.4,120.0,10000
+Pantai Krakal,Bahari,Yogyakarta,4.5,60.0,10000
+Pantai Glagah,Bahari,Yogyakarta,4.4,60.0,5000
+Pantai Siung,Bahari,Yogyakarta,4.6,60.0,10000
+Pantai Sadranan,Bahari,Yogyakarta,4.6,60.0,10000
+Pantai Nguluran,Bahari,Yogyakarta,4.1,60.0,10000
+Pantai Samas,Bahari,Yogyakarta,4.0,45.0,4000
+Pantai Drini,Bahari,Yogyakarta,4.5,60.0,10000
+Air Terjun Sri Gethuk,Cagar Alam,Yogyakarta,4.4,60.0,15000
+Candi Sewu,Budaya,Yogyakarta,4.6,60.0,50000
+Pantai Wediombo,Bahari,Yogyakarta,4.5,60.0,5000
+Pantai Jogan,Bahari,Yogyakarta,4.4,60.0,5000
+Pantai Ngrenehan,Bahari,Yogyakarta,4.4,60.0,3000
+Pantai Jungwok,Bahari,Yogyakarta,4.6,60.0,5000
+Pantai Greweng,Bahari,Yogyakarta,4.6,60.0,5000
+Pantai Sedahan,Bahari,Yogyakarta,4.5,60.0,5000
+Pantai Watu Kodok,Bahari,Yogyakarta,4.6,60.0,5000
+Pantai Kesirat,Bahari,Yogyakarta,4.6,90.0,5000
+Pantai Ngandong,Bahari,Yogyakarta,4.5,60.0,10000
+Galaxy Waterpark Jogja,Taman Hiburan,Yogyakarta,4.3,60.0,40000
+Desa Wisata Pulesari,Taman Hiburan,Yogyakarta,4.4,60.0,0
+Desa Wisata Tembi,Taman Hiburan,Yogyakarta,4.5,60.0,50000
+Wisata Kaliurang,Cagar Alam,Yogyakarta,4.4,60.0,8000
+Heha Sky View,Taman Hiburan,Yogyakarta,4.4,120.0,15000
+Taman Sungai Mudal,Cagar Alam,Yogyakarta,4.6,150.0,10000
+Pantai Sanglen,Bahari,Yogyakarta,4.5,60.0,10000
+Pantai Congot,Bahari,Yogyakarta,4.3,60.0,3000
+GunungTangkuban perahu,Cagar Alam,Bandung,4.5,60.0,30000
+Jalan Braga,Budaya,Bandung,4.7,60.0,0
+Gedung Sate,Budaya,Bandung,4.6,60.0,5000
+Trans Studio Bandung,Taman Hiburan,Bandung,4.5,240.0,280000
+Taman Hutan Raya Ir. H. Djuanda,Cagar Alam,Bandung,4.5,90.0,15000
+Farm House Susu Lembang,Taman Hiburan,Bandung,4.4,60.0,30000
+Kebun Binatang Bandung,Cagar Alam,Bandung,4.0,180.0,20000
+Kawah Putih,Cagar Alam,Bandung,4.5,60.0,81000
+Tebing Karaton,Cagar Alam,Bandung,4.5,60.0,15000
+Dusun Bambu,Taman Hiburan,Bandung,4.5,60.0,25000
+Museum Geologi Bandung,Budaya,Bandung,4.6,60.0,2000
+Museum Konferensi Asia Afrika,Budaya,Bandung,4.6,60.0,0
+Masjid Raya Bandung,Tempat Ibadah,Bandung,4.7,60.0,0
+Dago Dreampark,Taman Hiburan,Bandung,4.2,150.0,40000
+Orchid Forest Cikole,Taman Hiburan,Bandung,4.6,150.0,50000
+Kawasan Punclut,Taman Hiburan,Bandung,4.4,120.0,20000
+Alun-Alun Kota Bandung,Taman Hiburan,Bandung,4.6,60.0,0
+Museum Sri Baduga,Budaya,Bandung,4.5,60.0,3000
+Rabbit Town,Taman Hiburan,Bandung,4.0,90.0,45000
+Stone Garden Citatah,Taman Hiburan,Bandung,4.4,60.0,30000
+The Great Asia Africa,Taman Hiburan,Bandung,4.4,180.0,50000
+Bukit Moko,Cagar Alam,Bandung,4.5,60.0,25000
+Gunung Papandayan,Cagar Alam,Bandung,4.6,60.0,30000
+Amazing Art World,Budaya,Bandung,4.5,45.0,75000
+Gua Belanda,Cagar Alam,Bandung,4.4,45.0,15000
+Taman Balai Kota Bandung,Taman Hiburan,Bandung,4.6,45.0,0
+Panghegar Waterboom Bandung,Taman Hiburan,Bandung,4.3,60.0,75000
+Gunung Manglayang,Cagar Alam,Bandung,4.5,60.0,7500
+Lembang Park & Zoo,Cagar Alam,Bandung,4.5,210.0,50000
+Taman Lalu Lintas Ade Irma Suryani Nasution,Taman Hiburan,Bandung,4.4,60.0,7000
+Lawangwangi Creative Space,Taman Hiburan,Bandung,4.4,120.0,0
+Curug Dago,Cagar Alam,Bandung,4.0,60.0,12000
+Kampung Korea Bandung,Budaya,Bandung,4.1,60.0,15000
+Kampung Batu Malakasari,Taman Hiburan,Bandung,4.1,60.0,10000
+Jendela Alam,Taman Hiburan,Bandung,4.4,150.0,20000
+Curug Tilu Leuwi Opat,Cagar Alam,Bandung,4.4,120.0,10000
+Kiara Artha Park,Taman Hiburan,Bandung,4.4,60.0,15000
+NuArt Sculpture Park,Taman Hiburan,Bandung,4.7,60.0,50000
+Upside Down World Bandung,Taman Hiburan,Bandung,4.0,30.0,100000
+Pesona Nirwana Waterpark & Cottages,Taman Hiburan,Bandung,4.1,60.0,50000
+Taman Lansia,Taman Hiburan,Bandung,4.4,60.0,0
+Kampoeng Tulip,Taman Hiburan,Bandung,3.8,60.0,15000
+Selasar Sunaryo Art Space,Taman Hiburan,Bandung,4.6,60.0,25000
+Teras Cikapundung BBWS,Taman Hiburan,Bandung,4.3,60.0,0
+Museum Barli,Budaya,Bandung,4.4,180.0,15000
+Wisata Batu Kuda,Cagar Alam,Bandung,4.4,60.0,10000
+Monumen Bandung Lautan Api,Budaya,Bandung,4.3,60.0,0
+Museum Gedung Sate,Budaya,Bandung,4.6,60.0,5000
+Monumen Perjuangan Rakyat Jawa Barat,Budaya,Bandung,4.5,45.0,0
+Museum Pos Indonesia,Budaya,Bandung,4.5,60.0,0
+Ciwangun Indah Camp Official,Cagar Alam,Bandung,4.3,60.0,10000
+Wot Batu,Cagar Alam,Bandung,4.7,60.0,50000
+Curug Batu Templek,Cagar Alam,Bandung,4.1,90.0,5000
+Gereja Katedral Santo Petrus Bandung,Tempat Ibadah,Bandung,4.8,60.0,0
+Museum Mandala Wangsit Siliwangi,Budaya,Bandung,4.4,60.0,0
+Caringin Tilu,Cagar Alam,Bandung,4.4,60.0,0
+Panama Park 825,Taman Hiburan,Bandung,4.4,60.0,50000
+Sudut Pandang Bandung,Taman Hiburan,Bandung,4.6,150.0,50000
+Bumi Perkemahan Batu Kuda,Cagar Alam,Bandung,4.5,60.0,7500
+Bukit Bintang,Cagar Alam,Bandung,4.6,60.0,25000
+Taman Vanda,Taman Hiburan,Bandung,4.3,45.0,0
+Taman Budaya Jawa Barat,Budaya,Bandung,4.3,120.0,0
+Curug Bugbrug,Cagar Alam,Bandung,4.3,120.0,7500
+Babakan Siliwangi City Forest Path Bandung,Cagar Alam,Bandung,4.6,60.0,0
+Curug Cipanas,Cagar Alam,Bandung,3.9,180.0,20000
+Taman Jomblo,Taman Hiburan,Bandung,4.1,30.0,10000
+Peta Park,Taman Hiburan,Bandung,4.3,60.0,15000
+Masjid Daarut Tauhiid Bandung,Tempat Ibadah,Bandung,4.9,60.0,0
+Masjid Agung Trans Studio Bandung,Tempat Ibadah,Bandung,4.8,60.0,0
+Gereja Tiberias Indonesia Bandung,Tempat Ibadah,Bandung,4.9,60.0,0
+Tektona Waterpark,Taman Hiburan,Bandung,3.8,60.0,60000
+Curug Cilengkrang,Cagar Alam,Bandung,4.0,60.0,7500
+Jembatan Pasupati,Taman Hiburan,Bandung,4.6,60.0,0
+Pasar Baru,Pusat Perbelanjaan,Bandung,4.3,60.0,0
+Taman Sejarah Bandung,Budaya,Bandung,4.6,45.0,0
+Roemah Seni Sarasvati,Budaya,Bandung,4.4,60.0,0
+Puspa Iptek Sundial,Taman Hiburan,Bandung,4.4,60.0,25000
+Masjid Salman ITB,Tempat Ibadah,Bandung,4.8,60.0,0
+Curug Aseupan,Cagar Alam,Bandung,4.7,60.0,10000
+Museum Pendidikan Nasional,Budaya,Bandung,4.6,60.0,5000
+Water Park Bandung Indah,Taman Hiburan,Bandung,4.0,60.0,50000
+Curug Anom,Cagar Alam,Bandung,4.6,60.0,0
+Taman Badak,Taman Hiburan,Bandung,4.5,60.0,0
+Taman Film,Budaya,Bandung,4.3,90.0,0
+Museum Nike Ardilla,Budaya,Bandung,4.6,60.0,0
+Batununggal Indah Club,Taman Hiburan,Bandung,4.4,60.0,70000
+Mountain View Golf Club,Cagar Alam,Bandung,4.4,120.0,375000
+Gunung Lalakon,Cagar Alam,Bandung,4.8,60.0,0
+Sendang Geulis Kahuripan,Cagar Alam,Bandung,4.3,120.0,10000
+Sanghyang Heuleut,Cagar Alam,Bandung,4.4,60.0,10000
+Lereng Anteng Panoramic Coffee Place,Cagar Alam,Bandung,4.4,150.0,50000
+Masjid Pusdai,Tempat Ibadah,Bandung,4.7,60.0,0
+Masjid Al-Imtizaj,Tempat Ibadah,Bandung,4.7,60.0,0
+Situ Cileunca,Cagar Alam,Bandung,4.4,60.0,2500
+Sunrise Point Cukul,Cagar Alam,Bandung,4.6,60.0,10000
+Sungai Palayangan,Cagar Alam,Bandung,4.6,60.0,150000
+Perkebunan Teh Malabar,Cagar Alam,Bandung,4.4,60.0,5000
+Pemandian Air Panas Ciater,Cagar Alam,Bandung,4.3,60.0,15000
+Observatorium Bosscha,Cagar Alam,Bandung,4.5,60.0,25000
+Taman Bunga Cihideung,Cagar Alam,Bandung,4.1,45.0,0
+The Lodge Maribaya,Cagar Alam,Bandung,4.3,150.0,25000
+Taman Hutan Raya Ir. H. Juanda,Cagar Alam,Bandung,4.5,90.0,11000
+Taman Begonia,Cagar Alam,Bandung,4.4,90.0,10000
+Tafso Barn,Cagar Alam,Bandung,4.2,180.0,0
+Curug Luhur Waterfall,Cagar Alam,Bandung,4.2,60.0,5000
+Curug Malela,Cagar Alam,Bandung,4.4,60.0,10000
+Curug Cimahi,Cagar Alam,Bandung,4.6,30.0,15000
+Situ Patenggang,Cagar Alam,Bandung,4.5,60.0,20000
+Kawah Rengganis Cibuni,Cagar Alam,Bandung,4.3,60.0,5000
+Pemandian Air Panas Cimanggu,Cagar Alam,Bandung,3.9,60.0,23000
+Glamping Lakeside Rancabali,Taman Hiburan,Bandung,4.4,60.0,30000
+Bukit Jamur,Cagar Alam,Bandung,4.2,60.0,0
+Kebun Tanaman Obat Sari Alam,Cagar Alam,Bandung,4.9,90.0,0
+Happyfarm Ciwidey,Cagar Alam,Bandung,4.2,90.0,15000
+Saung Angklung Mang Udjo,Budaya,Bandung,4.7,60.0,75000
+Taman Kupu-Kupu Cihanjuang,Cagar Alam,Bandung,4.0,60.0,10000
+Taman Miniatur Kereta Api,Taman Hiburan,Bandung,4.4,60.0,15000
+Gua Pawon,Cagar Alam,Bandung,4.5,90.0,10000
+Bukit Gantole Cililin,Cagar Alam,Bandung,4.4,45.0,0
+Bandros City Tour,Budaya,Bandung,4.4,60.0,40000
+Kyotoku Floating Market,Budaya,Bandung,4.5,150.0,175000
+Rainbow Garden,Cagar Alam,Bandung,4.6,90.0,20000
+Kota Mini,Taman Hiburan,Bandung,4.4,60.0,20000
+Chingu Cafe Little Seoul,Taman Hiburan,Bandung,4.5,60.0,50000
+Candi Gedong Songo,Budaya,Semarang,4.5,60.0,10000
+Grand Maerakaca,Taman Hiburan,Semarang,4.4,60.0,15000
+Kampung Pelangi,Taman Hiburan,Semarang,4.3,30.0,3000
+Lawang Sewu,Budaya,Semarang,4.6,60.0,10000
+Sam Poo Kong Temple,Budaya,Semarang,4.5,60.0,35000
+Desa Wisata Lembah Kalipancur,Taman Hiburan,Semarang,3.9,90.0,0
+Hutan Wisata Tinjomoyo Semarang,Cagar Alam,Semarang,4.3,60.0,3000
+Taman Kasmaran,Taman Hiburan,Semarang,4.5,90.0,3000
+Pantai Baruna,Bahari,Semarang,4.0,60.0,3000
+Pantai Marina,Bahari,Semarang,4.1,60.0,3000
+Kampoeng Djadhoel Semarang,Budaya,Semarang,4.7,60.0,10000
+Indonesia Kaya Park,Taman Hiburan,Semarang,4.6,45.0,0
+Taman Pandanaran,Taman Hiburan,Semarang,4.4,45.0,0
+Pura Giri Natha,Budaya,Semarang,4.7,60.0,20000
+Wisata Mangrove Tapak,Cagar Alam,Semarang,4.3,90.0,5000
+Pantai Cipta,Bahari,Semarang,4.0,90.0,5000
+Old City 3D Trick Art Museum,Budaya,Semarang,4.4,60.0,50000
+GPIB Immanuel Semarang (Gereja Blenduk),Tempat Ibadah,Semarang,4.6,60.0,0
+Taman Srigunting,Taman Hiburan,Semarang,4.7,60.0,0
+Semarang Contemporary Art Gallery,Budaya,Semarang,4.6,90.0,10000
+Umbul Sidomukti,Cagar Alam,Semarang,4.6,60.0,75000
+Saloka Theme Park,Taman Hiburan,Semarang,4.4,180.0,150000
+Wisata Alam Wana Wisata Penggaron,Cagar Alam,Semarang,4.1,45.0,10000
+Masjid Kapal Semarang,Tempat Ibadah,Semarang,4.1,60.0,0
+Taman Bunga Celosia,Cagar Alam,Semarang,4.3,90.0,25000
+Air Terjun Kali Pancur,Cagar Alam,Semarang,4.1,60.0,5000
+Wisata Kampung Krisan Clapar,Taman Hiburan,Semarang,4.1,60.0,10000
+Danau Rawa Pening,Cagar Alam,Semarang,4.4,60.0,15000
+Pantai Maron,Bahari,Semarang,3.4,60.0,5000
+Water Blaster Bukit Candi Golf,Taman Hiburan,Semarang,4.2,60.0,80000
+Waduk Jatibarang,Cagar Alam,Semarang,4.3,60.0,2500
+Tirto Argo Siwarak,Taman Hiburan,Semarang,4.4,150.0,20000
+Wisata Lereng Kelir,Cagar Alam,Semarang,4.3,60.0,7000
+Kampoeng Rawa,Cagar Alam,Semarang,4.5,60.0,3000
+Monumen Palagan Ambarawa,Budaya,Semarang,4.4,20.0,7500
+Benteng Pendem,Budaya,Semarang,4.2,60.0,5000
+Wisata Eling Bening,Cagar Alam,Semarang,4.3,90.0,25000
+Gua Maria Kerep Ambarawa,Cagar Alam,Semarang,4.8,60.0,2000
+Museum Kereta Ambarawa,Budaya,Semarang,4.5,60.0,10000
+Hutan Pinus Kayon,Cagar Alam,Semarang,4.4,60.0,6000
+Kota Lama Semarang,Budaya,Semarang,4.7,90.0,0
+Semarang Chinatown,Budaya,Semarang,4.5,30.0,30000
+La Kana Chapel,Taman Hiburan,Semarang,4.5,60.0,35000
+Jembatan Biru Ambarawa,Taman Hiburan,Semarang,4.2,60.0,0
+Goa Rong,Cagar Alam,Semarang,4.3,60.0,5000
+Masjid Agung Ungaran,Tempat Ibadah,Semarang,4.7,60.0,0
+Tugu Muda Semarang,Budaya,Semarang,4.7,60.0,0
+Kampoeng Kopi Banaran,Taman Hiburan,Semarang,4.3,90.0,200000
+Taman Tabanas,Taman Hiburan,Semarang,4.4,60.0,0
+Kampung Tematik Jawi,Budaya,Semarang,4.5,90.0,0
+Kampung Batik Gedong Semarang,Budaya,Semarang,4.4,45.0,0
+Air Terjun Semirang,Cagar Alam,Semarang,4.4,60.0,9000
+Obyek Wisata Goa Kreo,Cagar Alam,Semarang,4.3,60.0,5500
+Watu Gunung Ungaran,Cagar Alam,Semarang,4.4,60.0,25000
+Brown Canyon,Cagar Alam,Semarang,4.2,30.0,0
+Durian Gardens and Tourism Education Watu Simbar,Cagar Alam,Semarang,4.1,45.0,5000
+Flower Farm Setiya Aji,Cagar Alam,Semarang,4.1,45.0,7500
+Ekowisata Mangrove Wonorejo,Cagar Alam,Surabaya,4.3,60.0,0
+Taman Harmoni Keputih,Cagar Alam,Surabaya,4.4,60.0,0
+Air Mancur Menari,Taman Hiburan,Surabaya,4.4,45.0,35000
+Taman Prestasi,Taman Hiburan,Surabaya,4.6,60.0,0
+Monumen Kapal Selam,Budaya,Surabaya,4.4,30.0,15000
+Taman Kunang-Kunang,Taman Hiburan,Surabaya,4.4,45.0,0
+Taman Buah Surabaya,Taman Hiburan,Surabaya,4.1,30.0,0
+Taman Pelangi,Taman Hiburan,Surabaya,4.5,20.0,0
+Hutan Bambu Keputih,Cagar Alam,Surabaya,4.3,25.0,0
+Taman Keputran,Taman Hiburan,Surabaya,4.3,60.0,0
+Food Junction Grand Pakuwon,Pusat Perbelanjaan,Surabaya,4.5,120.0,0
+Taman Barunawati,Taman Hiburan,Surabaya,4.2,30.0,0
+Kenjeran Park,Taman Hiburan,Surabaya,4.2,120.0,35000
+Surabaya North Quay,Taman Hiburan,Surabaya,4.4,60.0,50000
+Kebun Bibit Wonorejo,Cagar Alam,Surabaya,4.4,30.0,0
+Taman Ekspresi Dan Perpustakaan,Taman Hiburan,Surabaya,4.5,45.0,0
+Kebun Binatang Surabaya,Cagar Alam,Surabaya,4.3,180.0,15000
+Rumah Batik,Budaya,Surabaya,4.5,15.0,0
+Ciputra Waterpark,Taman Hiburan,Surabaya,4.3,90.0,95000
+Masjid Muhammad Cheng Hoo,Tempat Ibadah,Surabaya,4.7,60.0,0
+Masjid Nasional Al-Akbar,Tempat Ibadah,Surabaya,4.9,60.0,0
+Museum TNI AL Loka Jala Crana,Budaya,Surabaya,4.5,60.0,2000
+Jembatan Merah,Budaya,Surabaya,4.5,30.0,0
+Museum De Javasche Bank,Budaya,Surabaya,4.6,60.0,5000
+Keraton Surabaya,Budaya,Surabaya,4.4,60.0,0
+Klenteng Sanggar Agung,Budaya,Surabaya,4.5,60.0,10000
+Museum Sepuluh Nopember Kota Surabaya,Budaya,Surabaya,4.7,60.0,5000
+Monumen Tugu Pahlawan,Budaya,Surabaya,4.7,30.0,0
+Surabaya Museum (Gedung Siola),Budaya,Surabaya,4.5,45.0,0
+Museum Kesehatan Dr. Adhyatma,Budaya,Surabaya,4.4,60.0,10000
+Monumen Jalesveva Jayamahe,Budaya,Surabaya,4.6,15.0,0
+Patung Sura dan Buaya,Budaya,Surabaya,4.6,30.0,0
+Pantai Ria Kenjeran,Bahari,Surabaya,4.2,45.0,15000
+Waterpark Kenjeran Surabaya,Taman Hiburan,Surabaya,4.1,60.0,35000
+Balai Kota Surabaya,Budaya,Surabaya,4.7,60.0,0
+Patung Buddha Empat Rupa,Budaya,Surabaya,4.3,60.0,0
+Monumen Bambu Runcing Surabaya,Budaya,Surabaya,4.6,15.0,0
+House of Sampoerna,Budaya,Surabaya,4.6,30.0,0
+Atlantis Land Surabaya,Taman Hiburan,Surabaya,4.4,120.0,125000
+Taman Hiburan Rakyat,Taman Hiburan,Surabaya,4.2,60.0,5000
+Taman Mundu,Taman Hiburan,Surabaya,4.4,30.0,0
+Museum Mpu Tantular,Budaya,Surabaya,4.4,45.0,2000
+Taman Bungkul,Taman Hiburan,Surabaya,4.6,60.0,0
+Taman Air Mancur Menari Kenjeran,Taman Hiburan,Surabaya,4.4,45.0,0
+Taman Flora Bratang Surabaya,Taman Hiburan,Surabaya,4.6,60.0,0
+Gereja Perawan Maria Tak Berdosa Surabaya,Tempat Ibadah,Surabaya,4.8,60.0,10000
